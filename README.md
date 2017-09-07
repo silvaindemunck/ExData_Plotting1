@@ -1,10 +1,11 @@
-## Introduction
+## Coursera - Exploratory Data Analysis - Week 1 Assignment
 
-This assignment uses data from
+# Please note that in my graphs the abbreviations for the weekdays are in Dutch (due to the fact that I live in the Netherlands).
+
+This assignment uses data from 
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
+Learning Repository</a>. In this assignment I have used the  "Individual household
+electric power consumption Data Set" as made available on
 the course web site:
 
 
@@ -33,11 +34,7 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-## Loading the data
-
-
-
-
+## Load the data
 
 When loading the dataset into R, please consider the following:
 
