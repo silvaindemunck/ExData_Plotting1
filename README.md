@@ -1,6 +1,6 @@
 ## Coursera - Exploratory Data Analysis - Week 1 Assignment
 
-# Please note that in my graphs the abbreviations for the weekdays are in Dutch (due to the fact that I live in the Netherlands).
+### Please note that in my graphs the abbreviations for the weekdays are in Dutch (due to the fact that I live in the Netherlands).
 
 This assignment uses data from 
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
